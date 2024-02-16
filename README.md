@@ -14,4 +14,4 @@ Space Invaders - is a game where you are a fighter plane in space and you fight 
 
 # Demo
 
-[Demo](https://drive.google.com/file/d/1UqtT1wpEt4O56j1JzIkNTPTaXjHM8EHG/view?usp=sharing)
+[Demo Video](https://drive.google.com/file/d/1UqtT1wpEt4O56j1JzIkNTPTaXjHM8EHG/view?usp=sharing)
