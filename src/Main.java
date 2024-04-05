@@ -11,7 +11,6 @@ public class Main {
         frame.setResizable(false);
         frame.setVisible(true);
 
-
         frame.setExtendedState(JFrame.NORMAL);
         frame.setMaximizedBounds(new Rectangle(frame.getX(), frame.getY(), frame.getWidth(), frame.getHeight()));
 
